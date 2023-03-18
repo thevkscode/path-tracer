@@ -1,10 +1,8 @@
-#### This repository has been permanently moved to: [Link](https://github.com/R-coder270/Visualization-Tool-for-Sorting-and-path-finding-Algorithms)
-
 # Sorting Visualizer And Path finding Visualiser
 
 
 ## Sorting Visualizer
-This is a progressive web app built using Vanilla Javascript to visualize classic sorting algorithms such as bubble, insertion, selection, merge, quick and heap sort. This app is deployed with GitHub pages and can be accessed here: [Link](https://github.com/R-coder270/Visualization-Tool-for-Sorting-and-path-finding-Algorithms). I hope you have fun playing around with it.
+This is a progressive web app built using Vanilla Javascript to visualize classic sorting algorithms such as bubble, insertion, selection, merge, quick and heap sort. This app is deployed with GitHub pages and can be accessed here: [Link](https://github.com/thevkscode/path-tracer). I hope you have fun playing around with it.
 
 
 
